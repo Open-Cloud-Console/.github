@@ -9,7 +9,7 @@ Let's build the free-software building blocks for better cloud dashboard UI.
 
 ## Repositories
 
-- **specs**: This repository houses use cases, user stories, wireframes, and other product/design specifications essential for building our UI components.
+- **[specs](https://github.com/Open-Cloud-Console/specs)**: This repository houses use cases, user stories, wireframes, and other product/design specifications essential for building our UI components.
 
 ## Discussions
 
